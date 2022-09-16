@@ -16,9 +16,12 @@
   
   ##
   
-<h3 align="left" style="display:inline_block">Redes sociais:</h3>
-<a href="https://linkedin.com/in/benitomiyazato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benitomiyazato" height="30" width="40" /></a>
-<a href="https://discord.gg/BeMiyaz#8584" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BeMiyaz#8584" height="30" width="40" /></a>
-
+<h3 align="left">Redes sociais:</h3>
+  <div> 
+  <a href="[https://discord.gg/wagxzStdcR](https://discord.gg/BeMiyaz#8584)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:benito.miya@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/benitomiyazato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  
   ##
   
