@@ -1,5 +1,10 @@
 <h1 align="center">Olá 👋, meu nome é Benito Miyazato</h1>
 <h3 align="center">Sou um desenvolvedor Backend</h3>
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benitomiyazato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 - 📫 Entre em contato comigo: **benito.miya@outlook.com**
 
